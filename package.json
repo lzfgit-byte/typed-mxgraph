@@ -1,7 +1,7 @@
 {
-  "name": "@typed-mxgraph/typed-mxgraph",
+  "name": "@types/mxgraph",
   "version": "1.0.8",
-  "author": "鸿则 <hungtcs@163.com>",
+  "author": "trokix <proxypppp@qq.com>",
   "license": "MIT",
   "scripts": {
     "pretest": "tsc --noEmit",
@@ -27,12 +27,12 @@
   "main": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/typed-mxgraph/typed-mxgraph.git"
+    "url": "git+https://github.com/lzfgit-byte/typed-mxgraph"
   },
   "bugs": {
-    "url": "https://github.com/typed-mxgraph/typed-mxgraph/issues"
+    "url": "https://github.com/lzfgit-byte/typed-mxgraph/issues"
   },
-  "homepage": "https://github.com/typed-mxgraph/typed-mxgraph#readme",
+  "homepage": "https://github.com/lzfgit-byte/typed-mxgraph#readme",
   "keywords": [
     "mxgraph",
     "types"
